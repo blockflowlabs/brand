@@ -15,15 +15,15 @@ Blockflow is designed to significantly simplify backend processes, making it eas
 ### **Social Links**
 
 - Linktree: https://linktr.ee/blockflow
-- Twitter: https://twitter.com/flow_block
+- Twitter: https://twitter.com/BlockflowLabs
 - Discord: https://discord.gg/Kf7r4XsVhz
-- LinkedIn: https://www.linkedin.com/company/blockfloww
-- Youtube: https://www.youtube.com/@flow_block
-- Medium: https://medium.com/@flow_block
+- LinkedIn: https://www.linkedin.com/company/blockflowlabs
+- Youtube: https://www.youtube.com/blockflowlabs
+- Medium: https://medium.com/@BlockflowHQ
 
 ### **CTA Links**
 
 - Website: https://blockflow.network/
-- Docs: [https://docs.blockflow.network/](https://docs.blockflow.network/welcome-to-blockflow/introduction)
+- Docs: https://docs.blockflow.network
 - App: https://app.blockflow.network/
-- Discord: https://discord.com/invite/Sa2MjMNkm3
+- Discord: https://discord.gg/Kf7r4XsVhz
