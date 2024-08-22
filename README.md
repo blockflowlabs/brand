@@ -18,7 +18,7 @@ Blockflow is designed to significantly simplify backend processes, making it eas
 - Twitter: https://twitter.com/BlockflowLabs
 - Discord: https://discord.gg/Kf7r4XsVhz
 - LinkedIn: https://www.linkedin.com/company/blockflowlabs
-- Youtube: https://www.youtube.com/blockflowlabs
+- Youtube: https://www.youtube.com/@blockflowlabs
 - Medium: https://medium.com/@BlockflowHQ
 
 ### **CTA Links**
