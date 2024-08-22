@@ -16,7 +16,7 @@ Blockflow is designed to significantly simplify backend processes, making it eas
 
 - Linktree: https://linktr.ee/blockflow
 - Twitter: https://twitter.com/flow_block
-- Discord: https://discord.com/invite/Sa2MjMNkm3
+- Discord: https://discord.gg/Kf7r4XsVhz
 - LinkedIn: https://www.linkedin.com/company/blockfloww
 - Youtube: https://www.youtube.com/@flow_block
 - Medium: https://medium.com/@flow_block
