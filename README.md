@@ -6,7 +6,7 @@ The smarter way for crypto teams to build products. Managed Databases, On-chain 
 
 ### Short Description
 
-Blockflow makes on-chain data retrieval easy and fast. Devs can build real-time custom APIs or ETL pipelines for their needs using Blockflow, without touching a server or an RPC!
+Blockflow simplifies data and backend engineering for crypto applications. The infrastructure handles on-chain data retrieval, re-org handling, indexing, streaming, caching, and data delivery, allowing devs to build innovative applications.
 
 ### Long Description
 
